@@ -1,3 +1,4 @@
+
 body {
   font-family: Arial, sans-serif;
   background-color: #fff0f5;
@@ -393,6 +394,7 @@ footer.rodape {
   border-radius: 8px;
   margin: 15px 0;
 }
+/* sugestoes.css - Estilos específicos para a página de sugestões */
 
 .sugestoes-container {
   max-width: 800px;
@@ -466,6 +468,7 @@ footer.rodape {
   background-color: #9b30b5;
 }
 
+/* Estilo para o link ativo no menu */
 nav a.ativo {
   background-color: #9370DB;
   padding: 5px 15px;
